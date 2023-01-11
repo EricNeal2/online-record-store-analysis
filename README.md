@@ -3,6 +3,8 @@ In this project, I wrote SQL queries in order to answer a series business questi
 
 I used the [Chinook database](https://github.com/lerocha/chinook-database), a sample database for an online digital media store, which includes tables for artists, albums, media tracks, invoices and customers.
 
+Note: The `ipython-sql` module is required to run the SQL queries in the Jupyter Notebook `record_store_analysis.ipynb`
+
 ## Summary
 - **Selecting Albums to Purchase**: Which genre sells the most tracks in the USA?
 - **Analyzing Employee Sales Performance**: What is the total amount of sales attributed to each sales support agent?
